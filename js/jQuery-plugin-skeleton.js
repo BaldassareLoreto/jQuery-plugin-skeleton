@@ -23,5 +23,9 @@ Put your description of the plugin here
      *       // Close popup code.
      *   }
      *	};
-   	 */  
+   	 */
 }( jQuery ));
+
+
+// To call the popup from inline code
+// $( "a" ).popup();
